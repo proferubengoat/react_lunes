@@ -21,7 +21,7 @@ export default function App() {
         <div className="relative max-w-5xl mx-auto flex flex-col items-center text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-950/50 border border-red-800 text-red-400 text-sm font-mono mb-6">
             <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-            INCIDENTE CRÍTICO DE CIBERSEGURIDAD
+            Proyecto del profe Rubén.
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 tracking-tight">
             Anatomía de un <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-red-600">Ciberataque</span>
